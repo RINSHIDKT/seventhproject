@@ -1,0 +1,36 @@
+.link{
+    text-align: center;
+
+}
+.link a{
+    color: darkblue;
+}
+.container{
+    background-color: lightcoral;
+    border: 4px solid red;
+    padding-top: 20px;
+}
+.subcontainer{
+    border: 4px solid darkblue;
+    margin: 10px;
+}
+.heading{
+    text-align: center;
+    color: rgb(3, 3, 16);
+    font-size: 30px;
+}
+.pharagraph{
+    text-align: justify;
+}
+.image img{
+    width: 23.4%;
+    height: 250px;
+}
+.head2{
+    text-align: center;
+}
+.image img{
+    margin: 10px;
+    box-shadow:0px 2px 9px 10px rgb(62, 55, 55);
+}
+
